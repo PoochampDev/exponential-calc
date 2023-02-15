@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "ESNext",
+		"target": "ESNext",
+		"moduleResolution": "nodenext",
+		"strict": true,
+		"watch": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"noEmitOnError": true,
+		"strictNullChecks": true
+	}
+}
